@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="F:\Android_Studio_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="/Users/lingdian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="G:\AndroidStudioProjects\DingPlug1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f08fc822005cb4fe0b47420f57bf61202dbb81b0.jar" />
+        <dex dex="/Users/lingdian/AndroidWorkSpace/DingPlugin/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_68c8ec266ca88a3bb2bbc74f820daf8235b070ab.jar" />
     </item>
 
 </items>

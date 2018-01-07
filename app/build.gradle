@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 18
     buildToolsVersion "26.0.1"
 
     defaultConfig {
         applicationId "net.fenzz.dingplug"
-        minSdkVersion 17
-        targetSdkVersion 17
+        minSdkVersion 18
+        targetSdkVersion 18
     }
 
     buildTypes {

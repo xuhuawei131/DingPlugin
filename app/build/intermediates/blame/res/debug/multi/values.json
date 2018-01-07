@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,168 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 93,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 206,
+                        "endColumn": 91,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 52,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 45,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 52,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +191,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +210,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -68,7 +229,7 @@
                     "endOffset": 311
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +248,7 @@
                     "endOffset": 357
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -106,7 +267,7 @@
                     "endOffset": 410
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -126,7 +287,7 @@
                     "endOffset": 701
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -147,7 +308,7 @@
                     "endOffset": 861
                 },
                 "from": {
-                    "file": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

@@ -30,7 +30,7 @@ public class PhoneReceiver extends BroadcastReceiver {
                 case TelephonyManager.CALL_STATE_RINGING:
                     mIncomingNumber = intent.getStringExtra("incoming_number");
                     Log.i(TAG, "RINGING :" + mIncomingNumber);
-                    if(mIncomingNumber!=null&&mIncomingNumber.equals("13810864584")){
+                    if(mIncomingNumber!=null&&mIncomingNumber.equals("15810746515")){
                         Utils.openCLD("com.alibaba.android.rimet", context);
                         DingService.instance.setServiceEnable();
                     }

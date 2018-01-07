@@ -1,4 +1,4 @@
-#Wed Dec 27 23:53:32 GMT+08:00 2017
-base.0=G\:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sat Jan 06 22:46:37 CST 2018
+base.0=/Users/lingdian/AndroidWorkSpace/DingPlugin/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=G\:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/Users/lingdian/AndroidWorkSpace/DingPlugin/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

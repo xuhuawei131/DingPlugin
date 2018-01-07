@@ -1,6 +1,10 @@
 [
     {
-        "merged": "G:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/lingdian/AndroidWorkSpace/DingPlugin/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/Users/lingdian/AndroidWorkSpace/DingPlugin/G:\\AndroidStudioProjects\\DingPlug1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]
